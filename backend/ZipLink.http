@@ -1,0 +1,6 @@
+@ZipLink_HostAddress = http://localhost:5242
+
+GET {{ZipLink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
